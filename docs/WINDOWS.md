@@ -170,7 +170,7 @@ If, for whatever reason, you are not able to remove the boot files from the Wind
 
 To get started, download the Brigadier utility from the following link:
 
-* [Download Brigadier](https://github.com/timsutton/brigadier/releases/download/0.2.4/brigadier.exe)
+* [Download Brigadier](https://github.com/timsutton/brigadier/releases/download/0.2.6/brigadier.exe)
 
 Once Brigadier is downloaded, move it to your desktop for easy access.
 
